@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.singleton.ConfigurationSingletonTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-07-23T07:20:06" hostname="heetae2632.local" time="0.239">
+  <properties/>
+  <testcase name="configurationTest()" classname="hello.core.singleton.ConfigurationSingletonTest" time="0.239">
+    <failure message="org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'orderservice' available" type="org.springframework.beans.factory.NoSuchBeanDefinitionException">org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'orderservice' available
+	at app//org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanDefinition(DefaultListableBeanFactory.java:895)
+	at app//org.springframework.beans.factory.support.AbstractBeanFactory.getMergedLocalBeanDefinition(AbstractBeanFactory.java:1362)
+	at app//org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at app//org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at app//org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1240)
+	at app//hello.core.singleton.ConfigurationSingletonTest.configurationTest(ConfigurationSingletonTest.java:21)
+	at java.base@17.0.11/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base@17.0.11/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base@17.0.11/java.util.ArrayList.forEach(ArrayList.java:1511)
+</failure>
+  </testcase>
+  <system-out><![CDATA[AppConfig.memberService
+AppConfig.memberRepository
+AppConfig.memberRepository
+AppConfig.orderService
+AppConfig.memberRepository
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

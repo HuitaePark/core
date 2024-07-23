@@ -1,2 +1,5 @@
->memberService1 = hello.core.member.MemberServiceImpl@18a3962d
->memberService2 = hello.core.member.MemberServiceImpl@18a3962d
+AppConfig.memberService
+AppConfig.memberRepository
+AppConfig.memberRepository
+AppConfig.orderService
+AppConfig.memberRepository

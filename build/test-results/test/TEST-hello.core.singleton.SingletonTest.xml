@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hello.core.singleton.SingletonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-21T16:18:56" hostname="heetae2632.local" time="0.311">
-  <properties/>
-  <testcase name="스프링 컨테이너와 싱글톤" classname="hello.core.singleton.SingletonTest" time="0.311"/>
-  <system-out><![CDATA[memberService1 = hello.core.member.MemberServiceImpl@18a3962d
-memberService2 = hello.core.member.MemberServiceImpl@18a3962d
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
