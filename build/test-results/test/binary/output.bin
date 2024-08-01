@@ -3,3 +3,6 @@
 AppConfig.memberRepository
 AppConfig.orderService
 AppConfig.memberRepository
+VmemberService -> memberRepository = hello.core.member.MemoryMemberRepository@3e2943ab
+VorderService -> memberRepository  = hello.core.member.MemoryMemberRepository@70dd7e15
+EmemberRepository = hello.core.member.MemoryMemberRepository@4a9f80d3
