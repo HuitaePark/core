@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.scope.PrototypeProviderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-12T16:30:37" hostname="heetae2632.local" time="0.188">
+  <properties/>
+  <testcase name="providerTest()" classname="hello.core.scope.PrototypeProviderTest" time="0.188"/>
+  <system-out><![CDATA[PrototypeBean.init hello.core.scope.PrototypeProviderTest$PrototypeBean@4c398c80
+PrototypeBean.init hello.core.scope.PrototypeProviderTest$PrototypeBean@73ff4fae
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

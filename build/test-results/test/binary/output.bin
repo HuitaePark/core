@@ -1,2 +1,2 @@
-setNoBean2 = null
-setNoBean3 = Optional.empty
+QPrototypeBean.init hello.core.scope.PrototypeProviderTest$PrototypeBean@4c398c80
+QPrototypeBean.init hello.core.scope.PrototypeProviderTest$PrototypeBean@73ff4fae

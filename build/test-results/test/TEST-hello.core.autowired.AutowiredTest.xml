@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hello.core.autowired.AutowiredTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-12T03:06:59" hostname="heetae2632.local" time="0.208">
-  <properties/>
-  <testcase name="AutowiredOption()" classname="hello.core.autowired.AutowiredTest" time="0.208"/>
-  <system-out><![CDATA[setNoBean2 = null
-setNoBean3 = Optional.empty
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
